@@ -1,0 +1,41 @@
+/* Utils */
+.no-style{
+    color: white;
+}
+
+.no-style:hover{
+    color: white;
+    text-decoration: transparent;
+}
+
+.mg-sm{
+    margin: 1rem;
+}
+
+.mg-sm-right{
+    margin-right: 1rem;
+}
+
+.card-body > .content{
+    min-height: 20rem;
+}
+
+.inline{
+    display: flex;
+}
+
+/* alumni page */
+.alumni{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.alumni .card{
+    width: 20rem;
+    margin: 1rem;
+}
+
+.error-text{
+    color: red;
+    margin-left: 1rem;
+}
